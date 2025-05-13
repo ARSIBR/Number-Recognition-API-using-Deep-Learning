@@ -1,6 +1,3 @@
-Sure! Here's a **detailed brief** for your Number Recognition project using Deep Learning with FastAPI and TensorFlow datasets:
-
----
 
 ## 📘 Project Brief: Number Recognition using Deep Learning and FastAPI
 
